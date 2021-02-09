@@ -1,0 +1,19 @@
+body{
+    background-color: beige; 
+    text-align: center;
+}
+
+#section{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+    border-radius: 20px 20px 20px;
+    left: 35%;
+    position: relative;
+}
+
+select#list{
+        width: 150px;
+
+}
+    
